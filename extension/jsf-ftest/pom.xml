@@ -13,7 +13,7 @@
     <name>Arquillian Warp: JSF Functional Tests</name>
 
     <properties>
-        <browser>htmlUnit</browser>
+        <browser>phantomjs</browser>
         <remoteReusable>false</remoteReusable>
     </properties>
 
