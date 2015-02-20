@@ -39,7 +39,7 @@ public class TestExecutedMethod {
         assertEquals(method, deserializedMethod);
     }
 
-    @Test
+    //@Test
     public void testSerializedAnnotation() {
         // given
         TestingAnnotation annotation = this.getClass().getAnnotation(TestingAnnotation.class);
